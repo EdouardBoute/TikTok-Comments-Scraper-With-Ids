@@ -1,4 +1,4 @@
-# TOCSWIFT - TikTok Comment Scraper With Ids
+# TOCSWIFT - TikTok Comments Scraper With Ids
 
 Get all comments from tiktok videos. Operational in April 2025.
 
