@@ -21,7 +21,7 @@ I forked it to fix bugs, readme and add features.
 git clone https://github.com/EdouardBoute/TikTok-Comments-Scraper-With-Ids.git
 
 # Change Directory
-cd tiktok-comment-scrapper
+cd TikTok-Comments-Scraper-With-Ids
 
 # Install Requirement
 pip install -r requirements.txt
