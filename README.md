@@ -1,6 +1,6 @@
 # TOCSWIFT - TikTok Comments Scraper With Ids
 
-Get all comments from tiktok videos. Operational in April 2025.
+Get all comments from tiktok videos. Operational in October 2025.
 
 All comments and comments on comments are collected. If there's a difference between the number of comments displayed on TikTok and the number of comments collected, it's because these comments have disappeared from TikTok. Everything posted is collected.
 
